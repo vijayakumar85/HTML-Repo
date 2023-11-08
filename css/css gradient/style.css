@@ -1,0 +1,8 @@
+.coloring{
+    background-image:conic-gradient(red,blue,yellow,black,green);
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 400px;
+    color: white;
+    border-radius: 50%;
+}

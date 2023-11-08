@@ -1,0 +1,14 @@
+body{
+    background-image: url("https://cdn.buttercms.com/YJo7nqkkQzuvPJdYYDcn");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.a{
+    background-color: blueviolet;
+    height: 50%;
+    width: 50%;
+    border: 20px dotted red;
+    padding: 20px;
+    background-clip: border-box;
+}
